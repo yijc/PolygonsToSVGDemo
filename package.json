@@ -1,0 +1,20 @@
+{
+  "name": "svg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "drawlayout.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jquery": "^3.3.1",
+    "svg": "^0.1.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "room",
+    "layout"
+  ],
+  "author": "yjc",
+  "license": "ISC"
+}
